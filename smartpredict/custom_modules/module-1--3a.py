@@ -15,7 +15,7 @@ configuration = {
     # You can create as many inputs as you want.
     'in': {
         'input_1': {
-            'label': 'Input 1',
+            'label': 'Input 12123245645646464',
             'type': 'int',
             'order': 1,
             'description': 'This is the first input.',
