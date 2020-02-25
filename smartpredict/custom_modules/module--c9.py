@@ -42,7 +42,7 @@ configuration = {
     'params': {
         # Read the documentation for more details on the kind of parameters and options available in SmartPredict.
         'operation': {
-            'label': 'Operations',
+            'label': 'Calcul',
             'type': 'str',
             'default': 'Addition',
             'choices': ['Addition', 'Subtraction', 'Multiplication', 'Division'],
